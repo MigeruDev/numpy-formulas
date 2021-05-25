@@ -40,7 +40,9 @@ def entropy(Node):
     print("Entropy impurity: {}\n".format(entropy))
     return entropy
 
-
+# [WARNING] This example doesnt support continuous attributes
+# if you want to calculate the IG of continuos attributes
+# please go to the entropy_c.py file in this same folder
 father = "Etiqueta_Clase"
 child = "a1"
 
