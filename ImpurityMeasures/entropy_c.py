@@ -2,6 +2,9 @@ import numpy as np
 from numpy.core.numeric import zeros_like
 import pandas as pd
 
+# [TODO] This code was made in a hurry. 
+# It can be improved, someday I will. Please excuse me
+
 data = {
     "a3": [1.0, 6.0, 5.0, 4.0, 7.0, 3.0,8.0,7.0,5.0],
     "class": ["CP", "CP", "CN", "CP", "CN", "CN", "CN", "CP", "CN"]
