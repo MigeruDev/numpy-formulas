@@ -1,0 +1,21 @@
+ID_Client,Genero,Tipo_Vehiculo,Talla_Camisa,Clase
+1,M,Familiar,Pequeña,C0
+2,M,Deportivo,Mediana,C0
+3,M,Deportivo,Mediana,C0
+4,M,Deportivo,Larga,C0
+5,M,Deportivo,Extra Larga,C0
+6,M,Deportivo,Extra Larga,C0
+7,F,Deportivo,Pequeña,C0
+8,F,Deportivo,Pequeña,C0
+9,F,Deportivo,Mediana,C0
+10,F,Lujo,Larga,C0
+11,M,Familiar,Larga,C1
+12,M,Familiar,Extra Larga,C1
+13,M,Familiar,Mediana,C1
+14,M,Lujo,Extra Larga,C1
+15,F,Lujo,Pequeña,C1
+16,F,Lujo,Pequeña,C1
+17,F,Lujo,Mediana,C1
+18,F,Lujo,Mediana,C1
+19,F,Lujo,Mediana,C1
+20,F,Lujo,Larga,C1

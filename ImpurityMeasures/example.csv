@@ -1,0 +1,11 @@
+Home_Owner,Marital_Status,Annual_Income,Defaulted
+Yes,Single,125000,No
+No,Married,100000,No
+No,Single,70000,No
+Yes,Married,120000,No
+No,Divorced,95000,Yes
+No,Single,60000,No
+Yes,Divorced,220000,No
+No,Single,85000,Yes
+No,Married,75000,No
+No,Single,90000,Yes
