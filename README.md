@@ -28,6 +28,7 @@ If you like this Repo, Please click the :star:
   - [Distances](#Distances)
   - [Normalization](#Normalization)
   - [Proximity Measure](#Proximity-Measure)
+  - [Impurity Measure](#Impurity-Measure)
   - [Contact](#contact)
 
   <!-- GETTING STARTED -->
@@ -58,6 +59,18 @@ Proximity measures refer to the Measures of Similarity and Dissimilarity. Simila
 - [Ordinal](https://github.com/TheWorstOne/numpy-formulas/blob/main/ProximityMeasure/ordinal_proximity.py)
 - [Binary](https://github.com/TheWorstOne/numpy-formulas/blob/main/ProximityMeasure/binary_proximity.py)
 - [Mixed](https://github.com/TheWorstOne/numpy-formulas/blob/main/ProximityMeasure/mix_proximity.py)
+
+## **Impurity Measure**
+
+Measure of impurity is very important for any tree based algorithms, it will mainly helps us to decide the root node.
+
+In a given dataset that contains class for the predicted/dependent variable (like Yes,No,Neutral etc..), we can measure homogeneity or heterogeneity of the table based on the classes.
+We say a dataset is pure or homogeneous if it contains only a single class(either YES or NO). If a dataset contains several classes, then we say that the table is impure or heterogeneous(Combination of YES and NO).
+There are several ways to measure degree of impurity. Most well known ways to measures are given below:
+
+- [Gini index](https://github.com/TheWorstOne/numpy-formulas/blob/main/ImpurityMeasures/gini_index.py)
+- [Entropy/Information Gain](https://github.com/TheWorstOne/numpy-formulas/blob/main/ImpurityMeasures/entropy.py)
+- [Classification Error](https://github.com/TheWorstOne/numpy-formulas/blob/main/ImpurityMeasures/classification_error.py)
 
 <!-- CONTACT -->
 ## **Contact**
